@@ -3,7 +3,7 @@ public class CastingEx4 {
 
 	public static void main(String[] args) {
 		
-		int   i  = 91234567;		//8자리의 10진수
+		int   i  = 91234568;		//8자리의 10진수
 		float f  = (float)i;		//int를 float로 형변환
 		int   i2 = (int)f;			//float를 다시 int로 형변환
 		
